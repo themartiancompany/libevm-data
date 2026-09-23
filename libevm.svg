@@ -31,7 +31,7 @@
      inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="svg1" />
   <defs
      id="defs1">
     <inkscape:perspective
@@ -42,8 +42,16 @@
        inkscape:persp3d-origin="-72.474251 : 74.460109 : 1"
        id="perspective1" />
   </defs>
+  <rect
+     style="display:none;fill:#ffffff;fill-rule:nonzero;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1"
+     width="47.820396"
+     height="47.946571"
+     x="0.12617519"
+     y="0"
+     inkscape:label="bg" />
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="libevm"
      inkscape:groupmode="layer"
      id="layer1">
     <g
@@ -52,94 +60,92 @@
        style="fill:#ff00ff;fill-rule:nonzero;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        inkscape:perspectiveID="#perspective1"
        inkscape:corner0="-0.25008058 : -0.0094394797 : 0 : 1"
-       inkscape:corner7="-0.29569566 : -0.015792602 : 0.091303309 : 1">
+       inkscape:corner7="-0.29569566 : -0.015792602 : 0.091303309 : 1"
+       inkscape:label="cube">
       <path
          sodipodi:type="inkscape:box3dside"
          id="path6"
          style="fill:#ff00ff;fill-rule:nonzero;stroke:#000000;stroke-width:0.367133;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          inkscape:box3dsidetype="11"
          d="M 22.746111,5.7484835 41.640922,9.846695 V 28.763887 L 22.746111,23.639895 Z"
-         points="41.640922,9.846695 41.640922,28.763887 22.746111,23.639895 22.746111,5.7484835 " />
+         points="41.640922,9.846695 41.640922,28.763887 22.746111,23.639895 22.746111,5.7484835 "
+         inkscape:label="hidden-front-face" />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path1"
          style="fill:#ff00ff;fill-rule:nonzero;stroke:#000000;stroke-width:0.367133;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          inkscape:box3dsidetype="6"
          d="M 5.6721687,16.455607 V 36.525313 L 22.746111,23.639895 V 5.7484835 Z"
-         points="5.6721687,36.525313 22.746111,23.639895 22.746111,5.7484835 5.6721687,16.455607 " />
+         points="5.6721687,36.525313 22.746111,23.639895 22.746111,5.7484835 5.6721687,16.455607 "
+         inkscape:label="hidden-side-face" />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path5"
          style="fill:#ff00ff;fill-rule:nonzero;stroke:#000000;stroke-width:0.361429;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          inkscape:box3dsidetype="13"
          d="M 5.6721687,36.525313 25.910616,43.148098 41.640922,28.763887 22.746111,23.639895 Z"
-         points="25.910616,43.148098 41.640922,28.763887 22.746111,23.639895 5.6721687,36.525313 " />
+         points="25.910616,43.148098 41.640922,28.763887 22.746111,23.639895 5.6721687,36.525313 "
+         inkscape:label="bottom-face" />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path2"
          style="fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          inkscape:box3dsidetype="5"
          d="M 5.6721687,16.455607 25.910616,21.778554 41.640922,9.846695 22.746111,5.7484835 Z"
-         points="25.910616,21.778554 41.640922,9.846695 22.746111,5.7484835 5.6721687,16.455607 " />
+         points="25.910616,21.778554 41.640922,9.846695 22.746111,5.7484835 5.6721687,16.455607 "
+         inkscape:label="top-face" />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path4"
          style="fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.367;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          inkscape:box3dsidetype="14"
          d="M 25.910616,21.778554 V 43.148098 L 41.640922,28.763887 V 9.846695 Z"
-         points="25.910616,43.148098 41.640922,28.763887 41.640922,9.846695 25.910616,21.778554 " />
+         points="25.910616,43.148098 41.640922,28.763887 41.640922,9.846695 25.910616,21.778554 "
+         inkscape:label="side-face" />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path3"
          style="fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.367133;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          inkscape:box3dsidetype="3"
          d="M 5.6721687,16.455607 25.910616,21.778554 V 43.148098 L 5.6721687,36.525313 Z"
-         points="25.910616,21.778554 25.910616,43.148098 5.6721687,36.525313 5.6721687,16.455607 " />
+         points="25.910616,21.778554 25.910616,43.148098 5.6721687,36.525313 5.6721687,16.455607 "
+         inkscape:label="front-face" />
     </g>
     <text
        xml:space="preserve"
-       style="font-size:11.5283px;writing-mode:lr-tb;direction:ltr;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="25.682974"
-       y="28.568918"
-       id="text36154"
-       transform="scale(1.0413416,0.96029965)"><tspan
-         sodipodi:role="line"
-         id="tspan36154"
-         x="25.682974"
-         y="28.568918"
-         style="stroke-width:0"></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4.77451px;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:24.1067;fill:#e3e2db;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:4.77451px;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:24.1067;display:inline;fill:#e3e2db;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        x="50.651531"
        y="5.6299167"
        id="text36155"
        transform="matrix(-0.20123561,1.1121928,-2.3963156,0.14464234,53.878276,-34.974456)"
        inkscape:transform-center-x="7.155919"
-       inkscape:transform-center-y="0.96303357"><tspan
-         x="50.651531"
-         y="5.6299167"
-         id="tspan4"><tspan
-           style="font-weight:bold;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';stroke:#000000"
-           id="tspan3">EVM</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4.77451px;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:24.1067;fill:#e3e2db;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="50.651531"
-       y="5.6299167"
-       id="text36155-9"
-       transform="matrix(1.8697157,0.59807534,-0.0142629,5.0192262,-87.040138,-22.791865)"><tspan
+       inkscape:transform-center-y="0.96303357"
+       inkscape:label="EVM"><tspan
          x="50.651531"
          y="5.6299167"
          id="tspan6"><tspan
            style="font-weight:bold;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';stroke:#000000"
-           id="tspan5">lib</tspan></tspan></text>
+           id="tspan5">EVM</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.77451px;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:24.1067;display:inline;fill:#e3e2db;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="50.651531"
+       y="5.6299167"
+       id="text36155-9"
+       transform="matrix(1.8697157,0.59807534,-0.0142629,5.0192262,-87.040138,-22.791865)"
+       inkscape:label="lib"><tspan
+         x="50.651531"
+         y="5.6299167"
+         id="tspan8"><tspan
+           style="font-weight:bold;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';stroke:#000000"
+           id="tspan7">lib</tspan></tspan></text>
     <ellipse
        style="fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.352572;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="path36302"
        cx="23.778662"
        cy="13.863758"
        rx="6.0904264"
-       ry="2.5608647" />
+       ry="2.5608647"
+       inkscape:label="door" />
   </g>
 </svg>

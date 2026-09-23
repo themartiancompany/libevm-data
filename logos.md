@@ -34,6 +34,19 @@ A square logo.
   </a>
 </div>
 
+A wide logo.
+
+<div
+   align="center">
+  <a
+     href="libevm-wide.png">
+    <img
+       src="libevm-wide.png"
+       width="500"
+    />
+  </a>
+</div>
+
 ### License
 
 LibEVM is developed by Pellegrino Prevete and released under the
