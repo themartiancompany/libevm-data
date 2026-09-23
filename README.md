@@ -26,7 +26,7 @@
   <a
      href="https://github.com/themartiancompany/libevm">
     <img
-       src="https://raw.githubusercontent.com/themartiancompany/libevm-data/dc70ed554eac6b9d5f0f7cff91b323c137dc1d72/libevm.png"
+       src="https://raw.githubusercontent.com/themartiancompany/libevm-data/36089d1f9682e421633c28c62339e63163f13b3a/libevm-wide.png"
        width="500"
     />
   </a>
